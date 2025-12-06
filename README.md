@@ -3,7 +3,7 @@
 ![Project Banner](./preview.gif)
 <!-- ЗАМЕНИ public/preview.gif НА ПУТЬ К ТВОЕЙ ГИФКЕ, ЕСЛИ ОНА В ДРУГОМ МЕСТЕ -->
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)]([https://donut-playable-ad-demo.vercel.app](https://donut-playable-ad-demo.vercel.app/))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://donut-playable-ad-demo.vercel.app/)
 <!-- ЗАМЕНИ ССЫЛКУ ВЫШЕ НА ТВОЮ ФИНАЛЬНУЮ ССЫЛКУ -->
 
 ## 🚀 Overview
